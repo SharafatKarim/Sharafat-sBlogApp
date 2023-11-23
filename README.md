@@ -1,5 +1,6 @@
-# WebsiteAsApp 
+# WebsiteAsApp (clone of [SharafatKarim/WebsiteAsApp](https://github.com/SharafatKarim/WebsiteAsApp))
 Turn your websites into a native android app within a few minutes, with splash screen support and even more! 
+- Template GitHub repository: [Webstie as App](https://github.com/SharafatKarim/WebsiteAsApp)
 
 ## Overview
 
